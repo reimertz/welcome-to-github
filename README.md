@@ -6,8 +6,6 @@
 =
 
 ```
-welcome.git
-
 this is an experiment.
 
 i want to welcome all new users. 
