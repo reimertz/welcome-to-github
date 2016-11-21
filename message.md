@@ -24,4 +24,6 @@ If you have any questions, please feel free to join this welcome chat:
   <img src="https://badges.gitter.im/reimertz/welcome.svg" alt="Join gitter channel" />
 </a>
 
+---
+
 lots ❤️ from [@reimertz](http://github.com/reimertz) & the community
