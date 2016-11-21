@@ -14,10 +14,10 @@ I hope you will enjoy this community as much as I do, where creativity is your o
 - 👋 Want to socialize?     [link](https://gitter.im)
 </details>
 
-####Here is a random cat gif to enlighten your day.
-
-![cat](http://thecatapi.com/api/images/get?format=src&type=gif)
-
+<details>
+<summary>Here is a random cat gif to enlighten your day</summary>
+  ![cat](http://thecatapi.com/api/images/get?format=src&type=gif)
+</details>
 
 If you have any questions, please feel free to join this welcome chat: 
 <a href="https://gitter.im/reimertz/welcome">
