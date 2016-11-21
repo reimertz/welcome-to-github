@@ -20,7 +20,6 @@ I hope you will enjoy this community as much as I do, where creativity is your o
 
 
 If you have any questions, please feel free to join this welcome chat: 
-
 <a href="https://gitter.im/reimertz/welcome">
   <img src="https://badges.gitter.im/reimertz/welcome.svg" alt="Join gitter channel" />
 </a>
