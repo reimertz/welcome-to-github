@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/reimertz/welcome">
-    <img alt="welcome" src="welcome.svg" width="500">
+    <img alt="welcome" src="welcome.png" width="500">
   </a>
 </p>
 =
