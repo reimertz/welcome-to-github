@@ -4,7 +4,7 @@ I hope you will enjoy this community as much as I do, where creativity is your o
 
 __Here are some assets that might help you__
 
-- :octocat: Want to git?    [link](https://try.github.io/)
+- :octocat: Want to learn how to git?    [link](https://try.github.io/)
 - 💻 Want to learn how to code?    [link](https://www.codecademy.com)
 - 🤔 Need answers?          [link](https://stackoverflow.com)
 - 📰 Want to read news?        [link](https://news.ycombinator.com)
