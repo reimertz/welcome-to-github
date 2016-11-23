@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/reimertz/welcome">
-    <img alt="welcome" src="welcome.png" width="500">
-  </a>
-</p>
-
 Hello and welcome to Github!
 
 I hope you will enjoy this community as much as I do, where creativity is your only limit. 😍
