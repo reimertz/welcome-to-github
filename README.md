@@ -1,8 +1,8 @@
-Hello and welcome to Github!
+### Hello and welcome to Github!
 
 I hope you will enjoy this community as much as I do, where creativity is your only limit. 😍
 
-_Here are some assets that might help you_
+__Here are some assets that might help you__
 
 - :octocat: Want to git?    [link](https://try.github.io/)
 - 💻 Want to learn how to code?    [link](https://www.codecademy.com)
@@ -11,10 +11,9 @@ _Here are some assets that might help you_
 - 🏔 Want to find inspiration? [link](https://producthunt.com)
 - 👋 Want to socialize?     [link](https://gitter.im)
 
-If you have any questions, please feel free to join this welcome chat: 
+If you have any questions, please feel free to join this chat: 
 <a href="https://gitter.im/reimertz/welcome">
   <img src="https://badges.gitter.im/reimertz/welcome.svg" alt="Join gitter channel" />
 </a>
-
 
 lots ❤️ from [@reimertz](http://github.com/reimertz)
